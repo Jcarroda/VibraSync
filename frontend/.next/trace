@@ -1,0 +1,6 @@
+[{"name":"hot-reloader","duration":68,"timestamp":213059448878,"id":3,"tags":{"version":"15.3.2"},"startTime":1747750238572,"traceId":"14b15c58ec80d609"},{"name":"compile-path","duration":354468,"timestamp":213059557917,"id":4,"tags":{"trigger":"middleware"},"startTime":1747750238681,"traceId":"14b15c58ec80d609"}]
+[{"name":"next-dev","duration":136126321,"timestamp":213058378111,"id":1,"tags":{},"startTime":1747750237502,"traceId":"14b15c58ec80d609"}]
+[{"name":"hot-reloader","duration":75,"timestamp":213577371172,"id":3,"tags":{"version":"15.3.2"},"startTime":1747750756494,"traceId":"c89a486a5246b8ad"},{"name":"compile-path","duration":323061,"timestamp":213577454873,"id":4,"tags":{"trigger":"middleware"},"startTime":1747750756578,"traceId":"c89a486a5246b8ad"}]
+[{"name":"next-dev","duration":162980739,"timestamp":213576297759,"id":1,"tags":{},"startTime":1747750755421,"traceId":"c89a486a5246b8ad"}]
+[{"name":"hot-reloader","duration":72,"timestamp":213751152976,"id":3,"tags":{"version":"15.3.2"},"startTime":1747750930276,"traceId":"8391ba457daf10a8"},{"name":"compile-path","duration":312720,"timestamp":213751237253,"id":4,"tags":{"trigger":"middleware"},"startTime":1747750930360,"traceId":"8391ba457daf10a8"}]
+[{"name":"next-dev","duration":249997132,"timestamp":213750126261,"id":1,"tags":{},"startTime":1747750929249,"traceId":"8391ba457daf10a8"}]
