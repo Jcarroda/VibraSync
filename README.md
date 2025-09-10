@@ -1,22 +1,17 @@
 # 🎵 VibraSync
 
-**Usuarios de prueba** 
-----------------------------------
 ## Usuario de prueba ✨
-
 User: user_test
 Password: 123
-----------------------------------
-## Creador de prueba ✨
 
+## Creador de prueba ✨
 User: creator_test
 Password: 123
------------------------------------
-## Admin de prueba ✨
 
+## Admin de prueba ✨
 User: admin_test
 Password: 123
------------------------------------
+
 
 **Tu plataforma de música personalizada sin anuncios**
 
