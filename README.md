@@ -1,15 +1,15 @@
 # 🎵 VibraSync
 
 ## Usuario de prueba ✨
-User: user_test
+User: user_test |
 Password: 123
 
 ## Creador de prueba ✨
-User: creator_test
+User: creator_test |
 Password: 123
 
 ## Admin de prueba ✨
-User: admin_test
+User: admin_test |
 Password: 123
 
 
