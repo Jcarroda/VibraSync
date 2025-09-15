@@ -206,28 +206,12 @@ npm run lint       # Ejecutar linter
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
+##📃 Documentación
+
+[ Para más información del proyecto entra aquí ](https://github.com/Jcarroda/VibraSync/blob/master/Memoria%20del%20Proycto.pdf)
+
 ## 📝 Licencia
 
 Este proyecto está bajo la Licencia ISC. Ver el archivo `LICENSE` para más detalles.
-
-## 👥 Autores
-
-- **Javier Carro** - *Desarrollo inicial* - (https://github.com/jcarroda)
-
-## 🙏 Agradecimientos
-
-- A todos los contribuidores que han ayudado a mejorar VibraSync
-- A la comunidad de desarrolladores de código abierto
-- A los creadores de las librerías utilizadas en este proyecto
-
-## 📞 Soporte
-
-Si tienes alguna pregunta o problema, por favor:
-
-1. Revisa la documentación
-2. Busca en los issues existentes
-3. Crea un nuevo issue con la etiqueta apropiada
-
----
 
 **¡Disfruta de tu música con VibraSync! 🎵✨**
