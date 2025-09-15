@@ -206,7 +206,7 @@ npm run lint       # Ejecutar linter
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-##📃 Documentación
+## 📃 Documentación
 
 [ Para más información del proyecto entra aquí ](https://github.com/Jcarroda/VibraSync/blob/master/Memoria%20del%20Proycto.pdf)
 
