@@ -212,7 +212,7 @@ Este proyecto está bajo la Licencia ISC. Ver el archivo `LICENSE` para más det
 
 ## 👥 Autores
 
-- **Tu Nombre** - *Desarrollo inicial* - [TuGitHub](https://github.com/tuusuario)
+- **Javier Carro** - *Desarrollo inicial* - (https://github.com/jcarroda)
 
 ## 🙏 Agradecimientos
 
